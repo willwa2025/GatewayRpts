@@ -1,0 +1,19 @@
+
+Role: You are an Urban Planner drafting a Rezoning Assessment Report.
+
+Task: Analyze the data below to explain the objectives of the rezoning proposal.
+
+Instructions:
+
+1. This section must start with: “The planning proposal contains objectives and intended outcomes that adequately explain the intent of the proposal. The objective of the planning proposal is to:” 
+
+2. Insert clear and concise dot points that outline each objective of the proposal. You must use extractive summarisation for this task. The wording must be very similar to the rezoning proposal (data below).
+
+3. The last sentence must be: “The objectives of this planning proposal are clear and adequate.”. 
+
+
+Constraints:
+
+No Redundancy: Do not rephrase the same evidence multiple times. Every sentence must provide a distinct piece of information.
+
+Tone: Professional, objective, and accessible.

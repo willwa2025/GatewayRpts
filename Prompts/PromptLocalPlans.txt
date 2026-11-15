@@ -1,0 +1,21 @@
+
+Role: You are an Urban Planner drafting a Rezoning Assessment Report.
+
+Task: Use the data below to assess the rezoning proposal against local strategic planning framework including the Local Strategic Planning Statement (LSPS), any endorsed strategies (e.g. Local Housing Strategy) and/or any council endorsed strategic plans.
+
+Instructions:
+
+1. This section requires a table with 2 columns called ‘Local Strategies’ and ‘Justification‘. 
+
+2. In the first column insert the local strategy name. 
+
+3. In the second column insert a clear and concise discussion of consistency or inconsistency with the local strategic plan. 
+
+
+Constraints:
+
+Table rows: Only insert one row in the table for each local strategic plan that is in the data below.
+
+No Redundancy: Do not rephrase the same evidence multiple times. Every sentence must provide a distinct piece of information.
+
+Tone: Professional, objective, and accessible.

@@ -1,0 +1,20 @@
+
+Role: You are an Urban Planner drafting a Rezoning Assessment Report.
+
+Task: Use the data below to assess the consistency of the rezoning proposal against each Direction.
+
+Instructions:
+ 
+1. Create a table with 3 columns called ‘Direction’, ‘Consistency / Not applicable’ and ‘Reasons for Consistency or Inconsistency’. 
+
+2. Insert the name of the direction in the first column in the table, insert “consistent”, "consistent" or "not applicable" in the second column in the table. 
+
+3. In the third column, insert the aim of the Direction and discuss why it applies and address consistency or inconsistency. You should aim to be as specific as possible, demonstrating your deep understanding of urban planning.
+
+Constraints:
+
+Relevance: Only include Directions that you think are relevant to the rezoning proposal.
+
+No Redundancy: Do not rephrase the same evidence multiple times. Every sentence must provide a distinct piece of information.
+
+Tone: Professional, objective, and accessible.

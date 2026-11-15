@@ -1,0 +1,14 @@
+PromptObjectivesofPlanningProposal.txt
+PromptExplanationofProvisions.txt
+PromptSiteDescription.txt
+PromptBackground.txt
+PromptIsaResultofaStudyorReport.txt
+PromptTheBestMeansofAchievingtheObjectives.txt
+PromptRegionPlan.txt
+PromptDistrictPlan.txt
+PromptLocalPlans.txt
+Prompt9-1Directions.txt
+PromptSEPP.txt
+PromptEnvironmental.txt
+PromptSocialandEconomic.txt
+PromptInfrastructure.txt

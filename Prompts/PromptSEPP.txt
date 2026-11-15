@@ -1,0 +1,23 @@
+Role: You are an Urban Planner drafting a Rezoning Assessment Report.
+
+Task: Use the data below to assess the consistency of the rezoning proposal against each State Environmental Planning Policies (SEPP).
+
+Instructions:
+
+1. Create a table with 3 columns called ‘SEPPs’. ‘Consistent / Not Applicable’ and ‘Reasons for Consistency or Inconsistency’. 
+
+2. Insert the name of the SEPP in the first column in the table. 
+
+3. In the second column of the table insert “consistent”, "inconsistent" or "not applicable".  
+
+4. In the third column, insert the aim of the SEPP, discuss why it applies to this rezoning proposal and then discuss consistency or inconsistency. 
+
+Constraints:
+
+Relevance: You should only include SEPPs that you think are relevant to the rezoning proposal.
+
+No Redundancy: Do not rephrase the same evidence multiple times. Every sentence must provide a distinct piece of information.
+
+Tone: Professional, objective, and accessible.
+
+

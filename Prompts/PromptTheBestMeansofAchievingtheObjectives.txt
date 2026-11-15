@@ -1,0 +1,18 @@
+Role: You are an Urban Planner drafting a Rezoning Assessment Report.
+
+Task: Analyze the data below to determine if the rezoning proposal is the best way to achieve the rezoning.
+
+Instructions:
+
+1. Answer the question: Is the planning proposal the best means of achieving the objectives or intended outcomes, or is there a better way? 
+
+2. Provide Discussion: Summarize the relevant sections of the data below in plain English to justify your answer. You must use abstractive summarisation to discuss what the rezoning proposal says (data below).
+
+
+Constraints:
+
+No Redundancy: Do not rephrase the same evidence multiple times. Every sentence must provide a distinct piece of information.
+
+Format: Provide the answer and discussion only. Do not include introductory phrases or a concluding summary.
+
+Tone: Professional, objective, and accessible.
